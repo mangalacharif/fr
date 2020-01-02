@@ -1,0 +1,26 @@
+title: "Mangala El Charif"
+description: "Mangala El Charif's official website: a writer, philosopher and a creative"
+github_username: mangalacharif
+twitter: mangalacharif
+email: mangalacharif@yahoo.com
+baseurl: "/fr"
+url: "mangalacharif.github.io"
+
+plugins:
+  - jekyll-remote-theme
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+remote_theme: tareqdandachi/sandslate
+
+sass:
+  style: compressed
+
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - knight_of_the_desert.md
+  - thesis.md
+  - events.md
