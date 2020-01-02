@@ -11,14 +11,12 @@ stylesheet: /fr/resources/main.css
     Your device doesn't support this video.
 </video>
 
-Launching of the Arabic version of the book « Knight of the desert » within the activities of the Abu Dhabi International Book Fair.
-
-The launching ceremony was witnessed by His Excellency Sheikh Nahyan bin Mubarak Al Nahyan, Minister of Tolerance, Her Excellency Sheikha Lubna Al Qasimi, Sheikh Ahmed bin Sultan bin Saqr Al Qasimi, Sheikh Dhiab bin Khalifa bin Shakhbut Al Nahyan and His Excellency Nafdeeb Singh Suri, Ambassador of the Republic of India to the country.
+Lancement de la version arabe du livre «Chevalier du Désert» dans le cadre des activités du Salon International du Livre d'Abu Dhabi (ADIBF) en présence de Son Excellence Cheikh Nahyan bin Mubarak Al Nahyan, Ministre de la tolérance, Son Excellence Cheikha Lubna Al Qasimi, Cheikh Ahmed bin Sultan bin Saqr Al Qasimi, Cheikh Dhiab bin Khalifa bin Shakhbut Al Nahyan et Son Excellence Monsieur Nafdeeb Singh Suri, Ambassadeur de la République de l'Inde dans le pays.
 
 {:.no_margins}
 ![](resources/adbf.jpg)
 
-The ceremony was also attended by His Excellency Dr. Saeed Ahmed Ghobash, Supreme President of the Emirates University, His Excellency Mubarak Al Shamsi, Director General of the Abu Dhabi Center for Technical and Vocational Education and Training, Maitha Al Habsi, CEO of the Emirates Foundation, and Mohamed Salem Al Dhaheri, Advisor to the Head of the Education and Knowledge Department, and Dina Assaf, United Nations Coordinator, Dr. Sulaiman Al Hattlan, founder and president The CEO of Hatlan Media and a number of intellectuals, writers and thinkers.
+La cérémonie a également réuni Son Excellence Dr Saeed Ahmed Ghobash, président de l'Université des Émirats Arabes Unis, Son Excellence Mubarak Al Shamsi, directeur général du Centre d'Abu Dhabi pour l'Enseignement et la Formation Techniques et Professionnels, Maitha Al Habsi, PDG de la Fondation des Émirats Arabes Unis, Mohamed Salem Al Dhaheri, conseiller du chef du Département de l'éducation et du Savoir, Dina Assaf, coordinatrice des Nations Unies, Dr Sulaiman Al Hattlan, fondateur et PDG de Hatlan Media et de nombreux intellectuels, écrivains et penseurs.
 
 {:.multicols.fullheight}
 ![](resources/invitation.gif)
