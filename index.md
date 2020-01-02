@@ -5,12 +5,12 @@ stylesheet: /fr/resources/main.css
 ---
 
 {:.page_title}
-#### Writer, Philosopher and a Creative
+#### Écrivaine et Philosophe
 # Mangala El Charif
 
 ![Picture of Mangala El Charif with a city background](/resources/home.jpg)
 
-### I am a Lebanese trilingual writer and academic researcher specializing in comparative literature. I received my Ph.D from the the Sorbonne University in Paris with highest honors.
+### Écrivaine libanaise trilingue et docteur ès lettres spécialisée en Littérature Générale et Comparée de l'Université de la Sorbonne Nouvelle - Paris III avec la mention très honorable.
 
 <div class="block_link">
   <a href="thesis">Pour savoir plus sur ma thèse</a>

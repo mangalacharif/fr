@@ -17,7 +17,7 @@ description: Ce livre explore la profondeur cognitive et les dimensions philosop
 # Such as a synopsis or link to buying the book, extra images etc.
 ---
 
-{:.quote}
+{:.quote.large}
 ![An outstanding political philosophy research ‒ Ministry of Presidential Affairs, UAE](/resources/quote2.png)
 
 {:.no_margins}
