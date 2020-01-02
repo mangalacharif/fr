@@ -5,7 +5,7 @@ stylesheet: /fr/resources/main.css
 ---
 
 {:.page_title}
-#### Écrivaine et Philosophe
+#### Écrivaine, Philosophe et Novatrice
 # Mangala El Charif
 
 ![Picture of Mangala El Charif with a city background](/resources/home.jpg)
