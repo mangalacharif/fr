@@ -13,7 +13,7 @@ stylesheet: /fr/resources/main.css
 ### Écrivaine libanaise trilingue et docteur ès lettres spécialisée en Littérature Générale et Comparée de l'Université de la Sorbonne Nouvelle - Paris III avec la mention très honorable.
 
 <div class="block_link">
-  <a href="thesis">Pour savoir plus sur ma thèse</a>
+  <a href="/resume/">Curriculum Vitae</a>
 </div>
 
 <br>
